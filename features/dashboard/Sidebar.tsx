@@ -119,7 +119,7 @@ export function AppSidebar() {
                   </div>
                 </DropdownMenuItem>
                 <DropdownMenuItem>
-                  <SidebarMenuButton render={<a href={"/settings/profile"} className="rounded-md gap-2 p-2 h-12 text-sm" />}>
+                  <SidebarMenuButton render={<a href={"/dashboard/settings/profile"} className="rounded-md gap-2 p-2 h-12 text-sm" />}>
                     <Settings className="size-7" />
                     <span className="text-sm">Settings</span>
                   </SidebarMenuButton>

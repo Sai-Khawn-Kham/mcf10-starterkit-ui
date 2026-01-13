@@ -1,5 +1,5 @@
-import DashboardHeader from "@/features/dashboard/DashboardHeader";
-import DashboardSection from "@/features/dashboard/DashboardSection";
+import DashboardHeader from "@/features/dashboard/components/DashboardHeader";
+import DashboardSection from "@/features/dashboard/components/DashboardSection";
 
 const Page = () => {
   return (

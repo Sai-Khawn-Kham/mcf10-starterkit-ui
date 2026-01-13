@@ -85,7 +85,7 @@ const RegisterForm = () => {
                 />
               </div>
               <div className="flex items-center space-x-4">
-                <Checkbox id="remember" className={"size-6 rounded-sm"} />
+                <Checkbox id="remember" className={"size-6 rounded-sm"} suppressHydrationWarning />
                 <Label htmlFor="remember" className="text-sm font-medium">
                   Remember me
                 </Label>

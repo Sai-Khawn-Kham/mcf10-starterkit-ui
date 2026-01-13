@@ -1,10 +1,8 @@
-import DashboardHeader from "@/features/dashboard/components/DashboardHeader";
+import PasswordSection from "@/features/settings/components/PasswordSection";
 
 const Page = () => {
   return (
-    <>
-      <DashboardHeader>Password settings</DashboardHeader>
-    </>
+    <PasswordSection />
   );
 };
 

@@ -6,7 +6,7 @@ export default function PasswordSection() {
   return (
     <section>
       <h1 className=" text-lg font-semibold">Update password</h1>
-      <p className=" text-sm text-black/70">
+      <p className=" text-sm text-black/70 dark:text-white">
         Ensure your account is using a long, random password to stay secure
       </p>
       <form className=" flex flex-col gap-4 mt-4">

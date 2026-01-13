@@ -1,10 +1,8 @@
-import DashboardHeader from "@/features/dashboard/components/DashboardHeader";
+import AppearanceSection from "@/features/settings/components/AppearanceSection";
 
 const Page = () => {
   return (
-    <>
-      <DashboardHeader>Appearance settings</DashboardHeader>
-    </>
+    <AppearanceSection />
   );
 };
 

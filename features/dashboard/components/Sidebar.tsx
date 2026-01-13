@@ -13,7 +13,7 @@ import {
 import { BookOpen, ChevronsUpDown, Folder, LayoutGrid, LogOut, Settings } from "lucide-react";
 import Image from "next/image";
 import logo from "@/assets/logo-with-white-border.svg";
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "../../components/ui/dropdown-menu";
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 
 const items = [

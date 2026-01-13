@@ -7,7 +7,7 @@ export default function ProfileSection() {
     <section>
       <div>
         <h1 className=" text-lg font-semibold">Profile information</h1>
-        <p className=" text-sm text-black/70">
+        <p className=" text-sm text-black/70 dark:text-white">
           Update your name and email address
         </p>
         <form className=" flex flex-col gap-4 mt-4">

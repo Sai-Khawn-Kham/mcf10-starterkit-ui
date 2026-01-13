@@ -1,9 +1,9 @@
-import DashboardHeader from "@/features/dashboard/DashboardHeader";
+import ProfileSection from "@/features/settings/components/ProfileSection";
 
 const Page = () => {
   return (
     <>
-      <DashboardHeader>Profile settings</DashboardHeader>
+      <ProfileSection />
     </>
   );
 };
